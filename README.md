@@ -5,8 +5,8 @@ sudo apt-get update
 sudo apt-get install python3
 # INSTALL NMAP
 sudo apt-get install nmap
-# CLONE GIT LINK
-git clone "link"
+# CLONE
+git clone https://github.com/n75a/IP-Scanner.git 
 # CHANGE DIRECTORY
 cd IP-Scanner
 # CHANGE PERMISSIONS
